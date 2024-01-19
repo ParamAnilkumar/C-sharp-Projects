@@ -1,0 +1,15 @@
+C:\T177 sem2\COMP 1202 OBJECT ORIENTED PROGRAMMING\Labs\gpprac\gp2prac\bin\Debug\net7.0\gp2prac.exe
+C:\T177 sem2\COMP 1202 OBJECT ORIENTED PROGRAMMING\Labs\gpprac\gp2prac\bin\Debug\net7.0\gp2prac.deps.json
+C:\T177 sem2\COMP 1202 OBJECT ORIENTED PROGRAMMING\Labs\gpprac\gp2prac\bin\Debug\net7.0\gp2prac.runtimeconfig.json
+C:\T177 sem2\COMP 1202 OBJECT ORIENTED PROGRAMMING\Labs\gpprac\gp2prac\bin\Debug\net7.0\gp2prac.dll
+C:\T177 sem2\COMP 1202 OBJECT ORIENTED PROGRAMMING\Labs\gpprac\gp2prac\bin\Debug\net7.0\gp2prac.pdb
+C:\T177 sem2\COMP 1202 OBJECT ORIENTED PROGRAMMING\Labs\gpprac\gp2prac\obj\Debug\net7.0\gp2prac.csproj.AssemblyReference.cache
+C:\T177 sem2\COMP 1202 OBJECT ORIENTED PROGRAMMING\Labs\gpprac\gp2prac\obj\Debug\net7.0\gp2prac.GeneratedMSBuildEditorConfig.editorconfig
+C:\T177 sem2\COMP 1202 OBJECT ORIENTED PROGRAMMING\Labs\gpprac\gp2prac\obj\Debug\net7.0\gp2prac.AssemblyInfoInputs.cache
+C:\T177 sem2\COMP 1202 OBJECT ORIENTED PROGRAMMING\Labs\gpprac\gp2prac\obj\Debug\net7.0\gp2prac.AssemblyInfo.cs
+C:\T177 sem2\COMP 1202 OBJECT ORIENTED PROGRAMMING\Labs\gpprac\gp2prac\obj\Debug\net7.0\gp2prac.csproj.CoreCompileInputs.cache
+C:\T177 sem2\COMP 1202 OBJECT ORIENTED PROGRAMMING\Labs\gpprac\gp2prac\obj\Debug\net7.0\gp2prac.dll
+C:\T177 sem2\COMP 1202 OBJECT ORIENTED PROGRAMMING\Labs\gpprac\gp2prac\obj\Debug\net7.0\refint\gp2prac.dll
+C:\T177 sem2\COMP 1202 OBJECT ORIENTED PROGRAMMING\Labs\gpprac\gp2prac\obj\Debug\net7.0\gp2prac.pdb
+C:\T177 sem2\COMP 1202 OBJECT ORIENTED PROGRAMMING\Labs\gpprac\gp2prac\obj\Debug\net7.0\gp2prac.genruntimeconfig.cache
+C:\T177 sem2\COMP 1202 OBJECT ORIENTED PROGRAMMING\Labs\gpprac\gp2prac\obj\Debug\net7.0\ref\gp2prac.dll
